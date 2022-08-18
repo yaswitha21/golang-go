@@ -11,6 +11,8 @@ golang training with examples
 # Day 2
 1. git clone
 2. hello world example
-
+ created github account
+ installed git in my system
+ created SSH keys
 
 
